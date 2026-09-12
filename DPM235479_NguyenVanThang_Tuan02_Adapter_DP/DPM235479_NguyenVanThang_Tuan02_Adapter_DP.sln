@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM235479_NguyenVanThang_Tuan02_Adapter_DP", "DPM235479_NguyenVanThang_Tuan02_Adapter_DP.csproj", "{04249883-F230-4CA2-BAB0-9EAC5889D91D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM235479_NguyenVanThang_Tuan02_Adapter_Read_NhanVien_DP", "..\DPM235479_NguyenVanThang_Tuan02_Adapter_Read_NhanVien_DP\DPM235479_NguyenVanThang_Tuan02_Adapter_Read_NhanVien_DP.csproj", "{B76CC5D2-DA5C-45C5-9718-DEF98FA4706E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04249883-F230-4CA2-BAB0-9EAC5889D91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04249883-F230-4CA2-BAB0-9EAC5889D91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04249883-F230-4CA2-BAB0-9EAC5889D91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04249883-F230-4CA2-BAB0-9EAC5889D91D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B76CC5D2-DA5C-45C5-9718-DEF98FA4706E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76CC5D2-DA5C-45C5-9718-DEF98FA4706E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76CC5D2-DA5C-45C5-9718-DEF98FA4706E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76CC5D2-DA5C-45C5-9718-DEF98FA4706E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74F466E7-3EAF-4D6F-9EC6-1442FF1F0F04}
+	EndGlobalSection
+EndGlobal
